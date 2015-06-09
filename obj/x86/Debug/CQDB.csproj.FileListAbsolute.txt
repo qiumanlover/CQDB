@@ -1,0 +1,8 @@
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\obj\x86\Debug\CQDB.csprojResolveAssemblyReference.cache
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\bin\Debug\CQDB.exe
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\bin\Debug\CQDB.pdb
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\bin\Debug\NPOI.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\bin\Debug\NPOI.OOXML.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\obj\x86\Debug\CQDB.exe
+C:\Users\QiuMan\Documents\Reflector\Disassembler\CQDB\obj\x86\Debug\CQDB.pdb
